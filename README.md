@@ -81,8 +81,8 @@ This project showcases an interactive sales dashboard built in **Power BI** usin
 
 If you have questions or suggestions, feel free to connect!
 
-- **GitHub**: [Adnanshaik-databyte](https://github.com/YourUsername)
-- **LinkedIn**: [Shaik Mohammed Adnan]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammed-adnan-shaik-310092366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- **GitHub**: [Adnanshaik-databyte] ([https://github.com/YourUsername](https://github.com/Adnanshaik-databyte))
+- **LinkedIn**: [Shaik Mohammed Adnan] ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammed-adnan-shaik-310092366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ---
 
